@@ -100,6 +100,14 @@
 }
 
 /**
+ * Modifier: Prevent grid cells from wrapping to the next line
+ */
+
+.o-grid.o-grid--nowrap {
+  flex-wrap: nowrap;
+}
+
+/**
  * Modifier: allow cells to equal distribute width
  *
  * 1. Provide all values to avoid IE10 bug with shorthand flex
@@ -112,6 +120,15 @@
 .o-grid.o-grid--fit > .o-grid-cell {
   flex: 1 1 0%; /* 1 */
 }
+
+/**
+ * Modifier: allow cells to fill the entire width of their grid container
+ */
+
+.o-grid.o-grid--fill > .o-grid-cell {
+  flex: 1 0 100%;
+}
+
 
 /**
  * Modifier: all cells match height of tallest cell in a row
