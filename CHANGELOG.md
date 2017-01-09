@@ -1,3 +1,10 @@
+# 0.0.2 &mdash; January 8, 2017
+
+- **ENHANCEMENT**: Added `o-grid` modifier helper for `flex-wrap: nowrap` ([#1](https://github.com/Ticketfly-UI/ticketfly-css-grid-objects/pull/1))
+- **ENHANCEMENT**: Added `o-grid` modifier helper for each child cell filling
+the container's full width. ([#1](https://github.com/Ticketfly-UI/ticketfly-css-grid-objects/pull/1))
+
+
 # 0.0.1 &mdash; January 8, 2017
 
 - Initial project setup and implementation of grid system.
