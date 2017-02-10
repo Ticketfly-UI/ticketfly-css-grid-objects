@@ -2,8 +2,8 @@
   "name": "ticketfly-css-grid-objects",
   "version": "0.0.2",
   "description": "Display utilities for Ticketfly CSS",
-  "main": "index.css",
-  "style": "index.css",
+  "main": "build/ticketfly-css-grid-objects.css",
+  "style": "build/ticketfly-css-grid-objects.css",
   "keywords": [
     "ticketfly-css",
     "ticketfly-css grid",
