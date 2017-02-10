@@ -1,6 +1,6 @@
 {
   "name": "ticketfly-css-grid-objects",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Display utilities for Ticketfly CSS",
   "main": "build/ticketfly-css-grid-objects.css",
   "style": "build/ticketfly-css-grid-objects.css",

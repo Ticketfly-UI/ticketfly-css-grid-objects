@@ -1,7 +1,12 @@
+# 0.1.0 &mdash; February 9, 2017
+
+- **[ENHANCEMENT]**: Point package `main` and `style` fields to `build/` dir ([#2](https://github.com/Ticketfly-UI/ticketfly-css-grid-objects/pull/2)).
+- Bump version past `0.0.x` to begin recommending usage.
+
 # 0.0.2 &mdash; January 8, 2017
 
-- **ENHANCEMENT**: Added `o-grid` modifier helper for `flex-wrap: nowrap` ([#1](https://github.com/Ticketfly-UI/ticketfly-css-grid-objects/pull/1))
-- **ENHANCEMENT**: Added `o-grid` modifier helper for each child cell filling
+- **[ENHANCEMENT]**: Added `o-grid` modifier helper for `flex-wrap: nowrap` ([#1](https://github.com/Ticketfly-UI/ticketfly-css-grid-objects/pull/1))
+- **[ENHANCEMENT]**: Added `o-grid` modifier helper for each child cell filling
 the container's full width. ([#1](https://github.com/Ticketfly-UI/ticketfly-css-grid-objects/pull/1))
 
 
