@@ -18,7 +18,8 @@
     "type": "git"
   },
   "files": [
-    "index.css"
+    "index.css",
+    "build/"
   ],
   "bugs": {
     "url": "https://github.com/Ticketfly-UI/ticketfly-css-grid-objects/issues"
