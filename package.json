@@ -28,7 +28,7 @@
   "author": "Brian Sipple <@Brian_Sipple>",
   "license": "MIT",
   "dependencies": {
-    "ticketfly-css-spacing-variables": "^0.0.5"
+    "ticketfly-css-spacing-variables": "^0.1.0"
   },
   "devDependencies": {
     "cssnano": "^3.9.1",
